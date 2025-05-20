@@ -13,7 +13,8 @@ In this project, we walk through:
 
 --Finalizing and polishing the dashboard for presentation
 
-Features of the Dashboard
+# -Features of the Dashboard
+
 ✅ Key Performance Indicators (KPIs):
 
 Total Sales
@@ -23,6 +24,7 @@ Average Sales per Transaction
 Number of Items Sold
 
 Average Customer Ratings
+
 
 📊 Visualizations:
 
@@ -34,6 +36,7 @@ Line Chart: Sales trend over outlet establishment year
 
 Matrix Table: Metrics by item type
 
+
 🎯 Interactive Filters (Slicers):
 
 Outlet Location
@@ -42,7 +45,8 @@ Outlet Size
 
 Item Type
 
-Data Preparation
+# -Data Preparation
+
 The dataset includes:
 
 Item identifier, fat content, and type
@@ -61,7 +65,7 @@ Connected and loaded the Excel dataset into Power BI
 
 Ensured accurate data modeling for analysis
 
-echnologies Used
+# -Technologies Used
 Microsoft Power BI
 
 DAX (Data Analysis Expressions)
